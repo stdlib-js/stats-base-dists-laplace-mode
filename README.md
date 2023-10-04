@@ -67,7 +67,7 @@ The [mode][mode] for a [Laplace][laplace-distribution] random variable with loca
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@v0.1.1-esm/index.mjs';
 ```
 
 #### mode( mu, b )
@@ -132,7 +132,7 @@ y = mode( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@v0.1.1-esm/index.mjs';
 
 var mu;
 var b;
