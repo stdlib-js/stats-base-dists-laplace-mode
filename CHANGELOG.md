@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2024-12-26)
+
+<section class="features">
+
+### Features
+
+-   [`b275b6f`](https://github.com/stdlib-js/stdlib/commit/b275b6fed269c1f796fae358712ddbbc901bb41d) - add C implementation for `stats/base/dists/laplace/mode` [(#4138)](https://github.com/stdlib-js/stdlib/pull/4138)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3716](https://github.com/stdlib-js/stdlib/issues/3716)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`b275b6f`](https://github.com/stdlib-js/stdlib/commit/b275b6fed269c1f796fae358712ddbbc901bb41d) - **feat:** add C implementation for `stats/base/dists/laplace/mode` [(#4138)](https://github.com/stdlib-js/stdlib/pull/4138) _(by Vivek maurya, Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Vivek maurya
 
 </section>
 
