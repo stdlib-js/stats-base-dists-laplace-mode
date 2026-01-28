@@ -67,7 +67,7 @@ The [mode][mode] for a [Laplace][laplace-distribution] random variable with loca
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@v0.3.0-esm/index.mjs';
 ```
 
 #### mode( mu, b )
@@ -133,7 +133,7 @@ y = mode( 0.0, -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mode@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
